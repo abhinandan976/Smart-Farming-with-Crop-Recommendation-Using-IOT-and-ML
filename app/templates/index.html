@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crop Prediction</title>
+</head>
+<body>
+    <h1>Enter the Crop Data</h1>
+    <form action="/predict" method="POST">
+        <label for="soil_moisture">Soil Moisture:</label>
+        <input type="text" id="soil_moisture" name="soil_moisture" required><br><br>
+        <label for="ldr">LDR:</label>
+        <input type="text" id="ldr" name="ldr" required><br><br>
+        <label for="temperature">Temperature:</label>
+        <input type="text" id="temperature" name="temperature" required><br><br>
+        <label for="humidity">Humidity:</label>
+        <input type="text" id="humidity" name="humidity" required><br><br>
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
