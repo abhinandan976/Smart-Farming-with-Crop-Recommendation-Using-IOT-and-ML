@@ -1,4 +1,4 @@
-# 🌾 Smart Farming with Crop Recommendation using IoT and Machine Learning
+#  Smart Farming with Crop Recommendation using IoT and Machine Learning
 
 This project is a web-based smart farming system that recommends suitable crops based on real-time environmental parameters using a **Random Forest Classifier**. The solution combines **IoT-based sensor inputs** and **Machine Learning** to provide intelligent crop suggestions, aiming to assist farmers in making data-driven agricultural decisions.
 
