@@ -41,7 +41,7 @@ To design and deploy a smart farming solution that:
 
 | Layer        | Technologies Used                   |
 |--------------|-------------------------------------|
-| Frontend     | HTML, CSS, Jinja (Flask templates)  |
+| Frontend     | HTML, CSS                           |
 | Backend      | Python, Flask                       |
 | ML Model     | scikit-learn (Random Forest Classifier) |
 | Data Handling| NumPy, Joblib                       |
